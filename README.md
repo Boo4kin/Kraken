@@ -13,10 +13,4 @@
 - [Вклад](#вклад)
 - [Лицензия](#лицензия)
 
-## Установка
 
-1. **Клонирование репозитория:**
-
-   ```bash
-   git clone https://github.com/Boo4kin/Kraken.git
-   cd Kraken
